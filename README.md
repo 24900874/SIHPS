@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:02.12.2024
+## Register Number:24900874
+## Name:geethapriyan A S
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
