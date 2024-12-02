@@ -28,8 +28,12 @@ recycled circuit boards, wires, and other electronic parts.
 
 ![image](https://github.com/user-attachments/assets/aa6689ca-c910-4bc5-b149-968f689da169)
 
-## Technology Stack
+## Releases
+No releases published
 
 
-## Dependencies
+
+## Packages
+No packages published
+
 
